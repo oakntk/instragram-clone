@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: #fafafa;
+  height: 100vh;
+}
+
+.header {
+  background-color: white;
+  object-fit: contain;
+  padding: 20px;
+  border-bottom: 1px solid lightgrey;
+}
+
+.more{
+  margin-left: 100px;
+  padding: 5px 10px;
+  width: 20px;
+}
+
+.like{
+  padding: 5px 10px;
+  width: 20px;
+}
+
+.messenger{
+  padding: 5px 10px;
+  width: 20px;
+}
